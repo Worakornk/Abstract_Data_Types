@@ -1,1 +1,25 @@
+# Build output
 *.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dSYM/
+a.out
+bin/
+build/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.db
+*.sqlite
+*.ipch
+tempCodeRunnerFile*
+
+# OS
+.DS_Store
+Thumbs.db
